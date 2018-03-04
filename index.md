@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Hello~
 
-You can use the [editor on GitHub](https://github.com/littleflow3r/littleflow3r.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Yuni Susanti, and I am currently a <del>first</del> <del>second</del> third year PhD student at the <a href="http://www.cl.cs.titech.ac.jp/en/start">Computational Linguistics/ Natural Language Processing group (自然言語処理研究室)</a>, Computer Science Department, <a href="http://www.titech.ac.jp/">Tokyo Institute of Technology,</a> Japan, under the supervision of Prof. Takenobu Tokunaga.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img class="wp-image-2039 alignright" src="https://littleflow3r.files.wordpress.com/2008/05/img_6079.png" alt="IMG_6079" width="219" height="292" />My interest in the field of CL/ NLP can be traced back to about 5 years ago, when I started working on my undergraduate thesis, which was about Automatic Text Summarisation. I got my bachelor degree from <a href="http://if.mipa.uns.ac.id/">Informatics Department,</a> <a href="https://uns.ac.id/id/">University of Sebelas Maret,</a> Indonesia. That was when I found a book titled <a href="http://www.goodreads.com/book/show/53336.Women_Fire_and_Dangerous_Things">"Women, Fire, and Dangerous Things: What Categories Reveal About Minds"</a>, which, contrary to its unusual title, is a book about cognitive linguistic written by George Lakoff. According to <a href="https://en.wikipedia.org/wiki/Women,_Fire,_and_Dangerous_Things">Wikipedia</a>, the book's title was inspired by the noun class system of the <em>Dyirbal</em> language, in which the "feminine" category includes nouns for women, water, fire, violence, and certain animals. I have been always a bit feminist myself, so I liked that title.
 
-### Markdown
+I wanted to pursue a higher degree; and if possible, abroad, so I applied to International Graduate Program in Titech, and successfully secured Monbukagakusho (MEXT) Scholarship. I started my PhD right after I got my master degree from Titech in autumn 2015, with a master's thesis focusing on automatic generation of English vocabulary questions. My current research still focuses on automatic question generation for English learning, extending on controlling the difficulty of the machine-generated questions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prior to undertaking master’s study, I spent almost 2 years working on a startup web development company <a href="http://www.duxeos.com">Duxeos</a>, with some friends from my undergraduate study.
 
-```markdown
-Syntax highlighted code block
+<strong>Contact me:</strong> susanti.y.aa [at] titech.ac.jp or littleflow3r [at] gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+<strong>Publications:</strong>
+<ul>
+	<li>Yuni Susanti, Takenobu Tokunaga, Hitoshi Nishikawa and Hiroyuki Obari, Controlling item difficulty for automatic vocabulary question generation, Research and Practice in Technology Enhanced Learning, Vol.12, No.25, 2017, December [<a class="media mediafile mf_1186_s41039-017-0051-y" title="http://www.readcube.com/articles/10.1186/s41039-017-0051-y" href="https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiZirrNpKfYAhUM5bwKHZnuAKgQFggpMAA&url=https%3A%2F%2Ftelrp.springeropen.com%2Ftrack%2Fpdf%2F10.1186%2Fs41039-017-0065-5%3Fsite%3Dtelrp.springeropen.com&usg=AOvVaw3ROZxe-pt32vUNo4sH_ONS" target="_blank" rel="noopener">pdf</a>]</li>
+	<li>Yuni Susanti, Takenobu Tokunaga, Hitoshi Nishikawa and Hiroyuki Obari, Evaluation of automatically generated English vocabulary questions, Research and Practice in Technology Enhanced Learning, Vol.12, No.11, 2017, Mar [<a class="media mediafile mf_1186_s41039-017-0051-y" title="http://www.readcube.com/articles/10.1186/s41039-017-0051-y" href="http://www.cl.cs.titech.ac.jp/lib/exe/fetch.php?tok=e9a4a7&media=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1186%2Fs41039-017-0051-y" target="_blank" rel="noopener">pdf</a>]</li>
+	<li>Yuni Susanti, Hitoshi Nishikawa, Tokunaga Takenobu and Obari Hiroyuki, Item Difficulty Analysis of English Vocabulary Questions, Proceedings of the 8th International Conference on Computer Supported Education (CSEDU 2016), pages 267-274, 2016. May [<a href="http://www.cl.cs.titech.ac.jp/_media/publication/susanti_2016aa.pdf" target="_blank" rel="noopener">pdf</a>]</li>
+	<li>Yuni Susanti, Ryu Iida and Takenobu Tokunaga, Automatic generation of English vocabulary tests, Proceedings of the 7th International Conference on Computer Supported Education (CSEDU 2015), pages 77-87, 2015. May. [<a href="http://www.cl.cs.titech.ac.jp/_media/publication/csedu_2015_72_cr.pdf">pdf</a>]</li>
+	<li>Yuni Susanti, Ryu Iida and Takenobu Tokunaga, Collecting pairs of word senses and their context sentences for generating English vocabulary tests, Work-in-Progress Poster (WIPP) Proceedings of the 22nd International Conference on Computers in Education (ICCE 2014), pages 52-54, 2014. Dec. [<a href="http://www.cl.cs.titech.ac.jp/_media/publication/susanti_2014aa.pdf">pdf</a>]</li>
+</ul>
+Let's get a bit personal and talk about hobbies. I <em>normally</em> spend 50% of my whole day for <a href="https://www.goodreads.com/user/show/4231042-yuni-susanti" target="_blank" rel="noopener">book</a> and <a href="http://www.imdb.com/user/ur76948352/?ref_=nb_usr_prof_0">movies</a>, 20% for drawing, 10% for writing (you might find lots of <del>creepy</del> love poems or short-stories in this <a href="https://littleflow3r.wordpress.com/blog/" target="_blank" rel="noopener">blog</a>), and the rest for others (yes, yes, doing research is one of them. yes yes, thinking about future husband is one of them :p ). When I was in Indonesia I spent 50% of my day playing with my cats but now we are on long-distance relationship :') And oh, I do like cooking recently.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littleflow3r/littleflow3r.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lastly, here is a memento from me you can bring back home. A beautiful quote from Desiderius Erasmus, a renaissance humanist:
+<blockquote>Ignis mare mulier, tria mala / Fire, sea, and woman, here be evils three</blockquote>
+Told you. I have always been a bit feminist myself. :) bye, xoxo
